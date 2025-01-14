@@ -1,0 +1,100 @@
+M	1	Ayse	Tokatlioglu	75	
+M	2	Ahmet	Gunday	120	
+T	3	Umran	Akyurek	1010	Akyurek Gida
+S	4	Emir	Celik	45000	Celik Bobinaj
+M	5	Mert	Oztonga	250	
+T	6	Burcu	Kaya	2800	Kaya Asansor
+S	7	Serhan	Eksioglu	9600	Esksioglu Pamuk
+M	8	Burak	Gunday	85	
+M	9	Ahmet	Elicin	145	
+S	10	Utku	Pektemek	96000	Pektemek Tekstil
+M	11	Gorkem	Yetkiner	510	
+M	12	Emir	Tunceri	150	
+T	13	Yigit	Akyuz	3540	Akyuz Mobilya
+M	14	Ada	Kurutluoglu	260	
+M	15	Irem	Karabulut	230	
+T	16	Efe	Demirel	2300	Demirel Atolye
+M	17	Ebru	Koyluoglu	200	
+M	18	Serhan	Oztuna	190	
+T	19	Ege	Akal	4600	Akal Bakkal
+T	20	Esma	Tokatlioglu	5400	Tokat Beyaz Esya
+M	21	Burcu	Kavaklioglu	100	
+T	22	Sarp	Erturk	1250	Erturk Klima
+M	23	Emel	Ozkok	500	
+S	24	Irem	Aksit	55000	Aksit Sut
+M	25	Sahnur	Abaci	350	
+S	26	Onur	Durak	12000	Durak Tesktil
+T	27	Burcu	Aclan	780	Aclan Atolye
+M	28	Ruya	Karaer	65	
+M	29	Esma	Pektemek	48	
+M	30	Turker	Kocabiyik	15	
+T	31	Berk	Evliyaoglu	1500	Evliyaoglu Atolye
+T	32	Irem	Dusenkalkar	1700	Kalkar Restoran
+M	33	Sinem	Daglaroglu	90	
+T	34	Cagan	Babaoglu	940	Babaogul Restoran
+M	35	Barlas	Adivar	100	
+M	36	Berk	Tasli	140	
+M	37	Ada	Sarioglu	200	
+T	38	Sahnur	Karaduman	1100	Karaduman Balikcilik
+M	39	Polat	Akbulut	350	
+M	40	Ada	Sinanoglu	190	
+M	41	Esma	Tunaboylu	340	
+S	42	Ada	Bademci	44000	Bademci Gýda
+M	43	Emel	Durak	320	
+M	44	Ebru	Kececi	400	
+M	45	Baran	Asikoglu	140	
+S	46	Esma	Adivar	52000	Adivar Tekstil
+M	47	Askin	Arican	700	
+M	48	Ebru	Kocabiyik	630	
+M	49	Ebru	Adan	64	
+S	50	Tuna	Egeli	9800	Egeli Sut
+M	51	Kutay	Besok	50	
+M	52	Ruzgar	Tokatlioglu	73	
+T	53	Emel	Tokgoz	780	Tokgoz Kaporta
+M	54	Burcu	Polat	180	
+M	55	Koray	Koyluoglu	530	
+M	56	Ogun	Alniacik	200	
+M	57	Ece	Baturalp	470	
+T	58	Emel	Nalbantoglu	2700	Nalbantoglu Ticaret
+M	59	Emel	Kocabiyik	260	
+M	60	Emel	Turkyilmaz	185	
+M	61	Gorkem	Numanoglu	60	
+ 	62	Ece	Toraman	65000	Toraman Kimya
+M	63	Ege	Corekci	490	
+M	64	Burcu	Kuzucu	250	
+M	65	Sahnur	Korol	146	
+T	66	Ebru	Sozeri	8200	Sozeri Atolye
+M	67	Ogun	Sezek	170	
+M	68	Onur	Adal	130	
+S	69	Ece	Ozkara	78000	Ozkara Un
+M	70	Burcu	Evliyaoglu	520	
+M	71	Esma	Poyrazoglu	620	
+M	72	Emel	Alpugan	450	
+M	73	Cem	Tokgoz	259	
+S	74	Mert	Ozbey	24500	Ozbey Makarna
+M	75	Ada	Kahveci	67	
+M	76	Umran	Akgul	69	
+T	77	Doruk	Ayverdi	4800	Ayverdi Pimapen
+M	78	Irem	Ercetin	35	
+M	79	Sinem	Orge	64	
+M	80	Cinar	Ozkok	310	
+M	81	Alp	Sepetci	390	
+T	82	Daghan	Menemencioglu	3400	Menemenci Mobilya
+M	83	Berk	Abadan	240	
+T	84	Koray	Dogan	5900	Dogan Tamirat
+M	85	Sahnur	Akyurek	94	
+M	86	Doruk	Suleymanoglu	460	
+S	87	Burcu	Kilicci	35000	Kilic Bulgur
+M	88	Esma	Kaya	145	
+M	89	Atakan	Baykam	150	
+T	90	Ogun	Gurmen	650	Gurmen Lokanta
+T	91	Gorkem	Ercetin	3400	Ercetin Giyim
+M	92	Utku	Akman	45	
+M	93	Ebru	Topcuoglu	281	
+S	94	Ada	Limoncuoglu	84600	Limoncuoglu Tekstil
+T	95	Irem	Akaydin	1430	Akaydin Gym
+T	96	Gokturk	Okumus	1250	Okumus Pasta
+S	97	Sahnur	Tekand	24000	Tekand Gida
+M	98	Baran	Adal	200	
+T	99	Kagan	Limoncuoglu	1800	Limoncuoglu Gida
+T	100	Emre	Oztonga	2400	Oztonga Giyim
