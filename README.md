@@ -1,4 +1,4 @@
-Subscriber Management System
+# Subscriber Management System
 
 This project is a simple Subscriber Management System designed to handle different types of subscribers: Residential, Corporate Commercial, and Corporate Industrial. The system calculates the bill for each subscriber based on their consumption and type, and displays the information in an organized manner.
 Contents
